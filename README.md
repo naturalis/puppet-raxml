@@ -28,10 +28,7 @@ See README on https://github.com/stamatak/standard-RAxML for explanation about C
   $packages            = ['build-essential','autoconf','subversion','libtool','pkg-config','openjdk-6-jdk'] 
 
 ```
-Puppet code
-```
-class { bioportal: }
-```
+
 Result
 -------------
 raxml binary, compiled from source 
